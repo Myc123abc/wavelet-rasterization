@@ -1,0 +1,6 @@
+build
+.cache
+out
+.vs
+.vscode
+*.spv
